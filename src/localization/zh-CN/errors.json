@@ -1,0 +1,18 @@
+{
+  "GENERAL": {
+    "SOMETHING_WENT_WRONG": "出错了：{ERROR_MESSAGE}",
+    "UNKNOWN_ERROR": "未知错误",
+    "WRONG_NETWORK": "您的钱包网络不正确。请确保将其设置为“以太坊主网”"
+  },
+  "DELEGATE": {
+    "ADDRESS_IS_OWN_ADDRESS": "请输入一个不是您自己的以太坊地址。",
+    "INVALID_ETHEREUM_ADDRESS": "请输入有效的以太坊地址。"
+  },
+  "STAKE": {
+    "STAKE_MORE_THAN_BALANCE": "您的质押不能超过钱包可用余额。"
+  },
+  "WITHDRAW": {
+    "REQUEST_WITHDRAW_MORE_THAN_BALANCE": "您请求的提现不能超过您当前的权益质押余额。",
+    "LIQUIDITY_POOL_CURRENT_BLACKOUT_WINDOW": "每个时段的最后14天都是锁定窗口期，在此期间，不能从流动性池中请求提现。下一个时段于{EPOCH_DATE}开始。"
+  }
+}
